@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents Demo</string>
+    <string name="this_is_the_settings_page">This is the Settings Page</string>
+    <string name="settings">Settings</string>
+</resources>
